@@ -50,4 +50,8 @@ Acme Corp Product API is a Django-based RESTful API for managing products. This 
   
   `GET /api/products?category=Example%20Category`
 
-  
+
+## Swagger and Redoc
+- [Swagger UI](http://127.0.0.1:8000/swagger/)
+
+- [Redoc](http://127.0.0.1:8000/redoc/)
